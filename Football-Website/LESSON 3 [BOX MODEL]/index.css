@@ -1,0 +1,56 @@
+ul {
+    background-color: bisque;
+    width: 30px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.item {
+    list-style: ;
+}
+
+.one{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 10px;
+    padding-top: 10px;
+    padding: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+
+}
+
+.two{
+    border: 2px dotted brown;
+    padding: 10px 20px 30px 10px;
+    text-align: center;
+    margin: 20px;
+
+}
+
+.three{
+    border-bottom: 2px solid blue;
+    padding: 20px 10px ;
+    text-align: center;
+}
+
+.four, .five {
+    border-left: 2px solid green;
+    padding: 20px;
+    text-align: center;
+}
+
+.six {
+    border-bottom: 2px solid red;
+    border-right: 2px solid red;
+    border-radius: 10px;
+    padding: 20px 10px 30px;
+    text-align: center;
+
+
+}
